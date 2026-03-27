@@ -151,7 +151,7 @@ quote       : "Consistency + Smart Work = Success 🚀"
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Yashsri-07&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Yashsri07&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)
 
 </div>
 
