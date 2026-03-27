@@ -17,7 +17,7 @@
 ## 👩‍💻 About Me
 
 ```yaml
-name: Khushi Sharma
+name: Yash Srivastava
 degree: B.Tech CSE (Artificial Intelligence & Machine Learning)
 based_in: Prayagraj, India
 current_focus:
@@ -38,7 +38,7 @@ quote: "Consistency + Smart Work = Success 🚀"
 | Skill | Progress | Level |
 |-------|----------|-------|
 | DSA + Java | `████████░░` 70% | Intermediate |
-| Machine Learning | `████████░░` 78% | Intermediate+ |
+| Machine Learning | `████████░░` 60% | Intermediate+ |
 | Full-Stack Dev | `████████░░` 75% | Intermediate+ |
 
 ---
@@ -52,7 +52,6 @@ quote: "Consistency + Smart Work = Success 🚀"
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Frontend**
 
@@ -65,14 +64,12 @@ quote: "Consistency + Smart Work = Success 🚀"
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Backend & Tools**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -112,13 +109,6 @@ quote: "Consistency + Smart Work = Success 🚀"
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🎲 Guessing Game</h3>
-      <p>Number guessing game with an interactive UI and engaging user experience built in vanilla JavaScript.</p>
-      <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
     </td>
