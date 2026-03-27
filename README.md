@@ -187,6 +187,19 @@ quote       : "Consistency + Smart Work = Success 🚀"
 
 </div>
 
+
+---
+
+<!-- GFG Stats — Auto-updates daily via gfgstatscard.vercel.app -->
+<div align="center">
+ 
+### 🟢 GeeksforGeeks Stats
+<a href="https://www.geeksforgeeks.org/user/yashsri07/">
+  <img src="https://gfgstatscard.vercel.app/yashsri07" alt="GFG Stats" />
+</a>
+ 
+</div>
+ 
 ---
 
 ## 🎖️ HackerRank Badges
@@ -219,15 +232,18 @@ quote       : "Consistency + Smart Work = Success 🚀"
 ---
 
 ## 🤝 Connect With Me
-
+ 
 <div align="center">
-
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Srivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-srivastava-a0a380320)
-[![GitHub](https://img.shields.io/badge/GitHub-Yashsri--07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashsri-07)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Yashsri__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yashsri_07/)
+[![GitHub](https://img.shields.io/badge/GitHub-Yashsri07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashsri07)
+[![Instagram](https://img.shields.io/badge/Instagram-Yash_Srivastava_07-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Yash_Srivastava_07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Yashsri_07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yashsri_07/)
 [![GeeksforGeeks](https://img.shields.io/badge/GFG-yashsri07-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/yashsri07)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Yash__sri__07-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/Yash_sri_07)
-
+[![Gmail](https://img.shields.io/badge/Gmail-srivastavay496%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavay496@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A78BFA?style=for-the-badge&logo=firefox&logoColor=white)](https://yashsri07.github.io/Yash_Portfolio/)
+ 
 </div>
 
 ---
