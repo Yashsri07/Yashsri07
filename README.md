@@ -161,7 +161,7 @@ quote       : "Consistency + Smart Work = Success 🚀"
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yashsri-07&bg_color=0D1117&color=A78BFA&line=EC4899&point=FFFFFF&area=true&area_color=A78BFA&hide_border=true)](https://github.com/Yashsri-07)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yashsri07&bg_color=0D1117&color=A78BFA&line=EC4899&point=FFFFFF&area=true&area_color=A78BFA&hide_border=true)](https://github.com/Yashsri07)
 
 </div>
 
