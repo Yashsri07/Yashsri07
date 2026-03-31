@@ -222,10 +222,10 @@ quote       : "Consistency + Smart Work = Success 🚀"
 
 | Certificate | Issuer | Status |
 |-------------|--------|--------|
-| 🐍 Python for Everybody | Coursera / University of Michigan | ✅ Completed |
-| 🤖 Machine Learning Specialization | Coursera / Andrew Ng | 🔄 In Progress |
-| ☁️ AWS Cloud Practitioner | Amazon Web Services | 🔜 Planned |
-| 🔷 DSA in Java | GeeksforGeeks / Self | 🔄 In Progress |
+| certificate of Acknowledgement | ISRO | Earned |
+| Summer Training in GenAI | United GlobalInfoservice.PVT.LTD. | Earned |
+| Prompt Design in Vertex AI | Google cloud | Earned |
+| DSA in Java | GeeksforGeeks / Self | In Progress |
 
 </div>
 
