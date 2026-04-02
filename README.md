@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yash%20Srivastava&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=34&desc=CSE%20(AIML)%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20AI%2FML%20Explorer%20%E2%80%A2%20Prayagraj%2C%20India&descAlignY=56&descSize=15" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=Yash%20Srivastava&fontSize=48&fontColor=9F8FEF&animation=twinkling&fontAlignY=34&desc=CSE%20(AIML)%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20AI%2FML%20Explorer%20%E2%80%A2%20Prayagraj%2C%20India&descAlignY=56&descSize=15" />
 
 <br/>
 
@@ -266,7 +266,4 @@ quote       : "Consistency + Smart Work = Success 🚀"
 <div align="center">
 
 *⭐ Star my repositories if you find them useful!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-
 </div>
