@@ -11,7 +11,7 @@
 <p>
   <img src="https://img.shields.io/badge/📍%20Prayagraj-India-A78BFA?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🎯%20Focus-AI%2FML%20%2B%20Full%20Stack-EC4899?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎯%20Focus-AI%2FML%20%2B%20LLMs%20%2B%20claudeCode-EC4899?style=flat-square" />
   &nbsp;
   <img src="https://img.shields.io/badge/🤝%20Status-Open%20to%20Collaborate-34D399?style=flat-square" />
   &nbsp;
@@ -26,16 +26,16 @@
 
 ```yaml
 name        : Yash Srivastava
-degree      : B.Tech CSE — Artificial Intelligence & Machine Learning
+degree      : B.Tech in Computer Science Engineering (AI & ML Specialization)
 location    : Prayagraj, India
-current_focus:
-  - 🔷 Mastering DSA + Java (LeetCode daily grind)
-  - 🤖 Building real-world AI/ML projects
-  - 🌐 Full-Stack Development with React & Flask
-  - 🏆 Hackathons & Open Source contributions
-interests   : [Machine Learning, Deep Learning, Web Dev, Problem Solving]
-fun_fact    : "I turn coffee ☕ into working AI models 🧠"
-quote       : "Consistency + Smart Work = Success 🚀"
+focus:
+  - AI/ML projects and practical GenAI work
+  - NLP, embeddings, transformers, and LLM workflows
+  - Java, Python, OOP, SQL, and DSA
+  - Frontend basics with HTML, CSS, and JavaScript
+interests   : [Machine Learning, Generative AI, NLP, Web Development, Problem Solving]
+tools       : [Git, GitHub, VS Code, Jupyter Notebook, Streamlit, Ollama]
+quote       : "Consistency + Smart Work = Success"
 ```
 
 ---
@@ -44,46 +44,55 @@ quote       : "Consistency + Smart Work = Success 🚀"
 
 | Skill | Progress | Status |
 |-------|----------|--------|
-| 🔷 DSA + Java | `████████░░` **70%** | Intermediate → Advanced |
+| 🔷 claude Code | `████████░░` **75%** | Intermediate → Advanced |
 | 🤖 Machine Learning | `██████░░░░` **60%** | Intermediate |
-| 🌐 Full-Stack Dev | `████████░░` **75%** | Intermediate+ |
+| 🌐 LLMs | `████████░░` **80%** | Intermediate+ |
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### Programming & Development
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-4B5563?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-7C3AED?style=for-the-badge)
+
+### AI / ML
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F59E0B?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/GenAI-A78BFA?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-EC4899?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-22C55E?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-0EA5E9?style=for-the-badge)
+![Transformer](https://img.shields.io/badge/Transformer-1D4ED8?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-64748B?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-111827?style=for-the-badge)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-14B8A6?style=for-the-badge)
+
+### Web Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Frontend Basics](https://img.shields.io/badge/Frontend%20Basics-6B7280?style=for-the-badge)
 
-### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### Tools
 
-### ⚙️ Backend & Tools
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
 ---
+
 
 ## 📌 Featured Projects
 
@@ -100,7 +109,7 @@ quote       : "Consistency + Smart Work = Success 🚀"
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>😊 Emotion Detection System</h3>
+      <h3>FeelingIt</h3>
       <p>Real-time facial emotion recognition using deep learning. Detects <strong>happy, sad, angry, surprised</strong> and more from live camera or images using a custom CNN architecture.</p>
       <p>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
