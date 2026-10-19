@@ -25,7 +25,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name        : Yash Srivastava
+name        : Yash Srivastava 
 degree      : B.Tech in Computer Science Engineering (AI & ML Specialization)
 location    : Prayagraj, India
 focus:
