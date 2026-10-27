@@ -18,6 +18,12 @@
 
 ## Connect
 
-<p align="center"><img src="assets/connect.svg?v=1" alt="Connect with Yash" width="100%"></p>
+<table><tr><td width="44%"><img src="assets/connect-pointer.svg?v=1" alt="Yash pointing toward the links" width="100%"></td><td width="56%">
 
-[LinkedIn](https://www.linkedin.com/in/yash-srivastava-a0a380320) · [Portfolio](https://yash-srivastava-nu.vercel.app/) · [Instagram](https://www.instagram.com/yash_srivastava_07?igsh=NWpxMnlkZ3FjaTR0) · [LinkTree](https://linktr.ee/Yashsri07) · [Email](mailto:srivastavay496@gmail.com)
+<a href="https://www.linkedin.com/in/yash-srivastava-a0a380320"><img src="assets/connect-linkedin.svg?v=1" alt="Open LinkedIn" width="100%"></a><br>
+<a href="https://yash-srivastava-nu.vercel.app/"><img src="assets/connect-portfolio.svg?v=1" alt="Open Portfolio" width="100%"></a><br>
+<a href="https://www.instagram.com/yash_srivastava_07?igsh=NWpxMnlkZ3FjaTR0"><img src="assets/connect-instagram.svg?v=1" alt="Open Instagram" width="100%"></a><br>
+<a href="https://linktr.ee/Yashsri07"><img src="assets/connect-linktree.svg?v=1" alt="Open LinkTree" width="100%"></a><br>
+<a href="mailto:srivastavay496@gmail.com"><img src="assets/connect-email.svg?v=1" alt="Email Yash" width="100%"></a>
+
+</td></tr></table>
